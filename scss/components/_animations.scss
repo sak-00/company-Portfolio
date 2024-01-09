@@ -1,0 +1,10 @@
+//pules boder
+
+@keyframes pules-border {
+    0%{
+        transform: scale(1);
+        opacity: 1;
+    }
+    1%{transform: scale(1.5);
+    opacity: 0;}
+}

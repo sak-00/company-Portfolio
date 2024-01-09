@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "project using bootstrap5 with SASS",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "bootstrap",
+    "boostrap-v5",
+    "sass",
+    "portfolio"
+  ],
+  "author": "Sahar abdulla",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}
